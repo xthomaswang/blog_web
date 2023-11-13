@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Melo's Day life",
+      "body": "Lots of interesing events happened today...",
+      "author": "melo",
+      "id": 1,
+      "imageUrls": [
+        "/melo/m1.JPG",
+        "/melo/m2.JPG",
+        "/melo/m3.JPG"
+      ]
+    },
+    {
+      "title": "Sleepy melo",
+      "body": "hello world",
+      "author": "melo",
+      "id": 2,
+      "videoUrl": "/melo/mv1.mp4"
+    },
+    {
+      "title": "Cindy's Day life",
+      "body": "Lots of interesing events happened today...",
+      "author": "cindy",
+      "id": 3
+    }
+  ]
+}
